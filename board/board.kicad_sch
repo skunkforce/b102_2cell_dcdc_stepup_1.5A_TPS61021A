@@ -869,7 +869,7 @@
       (reference "R3") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/d99c0b57-9feb-4e4c-9ee2-6976dcad0a72"
-      (reference "U1") (unit 1) (value "TLV61220") (footprint "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm")
+      (reference "U1") (unit 1) (value "TPS61021A") (footprint "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm")
     )
   )
 )
