@@ -885,6 +885,12 @@
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/36676374-ad7d-4998-8fed-ee062cb9e546"
       (reference "C8") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
+    (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/618120c4-7a48-427f-9452-7aeb614ed889"
+      (reference "C9") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/afa33a64-e92f-4624-9c16-1b178e55de06"
+      (reference "C10") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
     (path "/580f4ff1-ed8c-4283-8e77-54c7b98c780d"
       (reference "J1") (unit 1) (value "022_battery_cells") (footprint "on_edge:on_edge_2x05_device")
     )
